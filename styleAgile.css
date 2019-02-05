@@ -1,0 +1,45 @@
+.imagem-capa {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  border: 2px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.crédito
+{
+  title: shutterstock_289956929
+}
+h1 {
+  font-size: 38px;
+  background-color: #BF3F3F;
+  color: beige;
+  padding: 10px;
+}
+h2 {
+  color: red;
+}
+
+li {
+  font-style: italic;
+}
+body {
+  background-color: rgb(204,235,197);
+  font-family: "Optima", sans-serif;
+}
+#link {
+  background-color:#BF3F3F;
+  color:beige;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+div {
+  font-size:20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+}
